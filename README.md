@@ -23,7 +23,7 @@
 ![corinthians](./img/corinthians.png)
 
 **readme**
-<p align="center"> <img width="50%" src="./img/romero.jpg"></p>
+<p align="center"> <img width="50%" src="./img/romero.jpg alt="Romero corinthians"></p>
 
 
 
